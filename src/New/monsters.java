@@ -2,7 +2,7 @@ package New;
 import java.util.Random;
 
 public class monsters {
-	static int Zombie[] = { 1, 4, 2, 5 };// Xp given, Gold given, Damage, Health,1
+	static int Zombies[] = { 1, 4, 2, 5 };// Xp given, Gold given, Damage, Health,1
 	static int wolf[] = { 1, 3, 3, 6 };// Xp given, Gold given, Damage, Health,1
 	
 	static int Goblin[] = { 2, 6, 3, 7 };// Xp given, Gold given, Damage, Health,2
